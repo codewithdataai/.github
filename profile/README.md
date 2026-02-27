@@ -4,13 +4,11 @@
 
 ### Master Data Engineering & AI with Real-World Projects
 
-<p>
-  <a href="https://github.com/codewithdataai">
-    <img src="https://img.shields.io/badge/GitHub-Organization-black?style=for-the-badge&logo=github">
-  </a>
-  <img src="https://img.shields.io/badge/Data-Engineering-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/AI-Learning-orange?style=for-the-badge">
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Data%20Engineering-0A192F?style=for-the-badge&logo=apache-spark&logoColor=orange">
+  <img src="https://img.shields.io/badge/Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/AI%20Learning-1E293B?style=for-the-badge&logo=openai&logoColor=white">
+</div>
 
 ---
 
