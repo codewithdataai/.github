@@ -40,12 +40,6 @@ We build scalable data systems.
 
 <img src="https://skillicons.dev/icons?i=python,mysql,postgres,aws,docker,git,linux" />
 
-<br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/spark-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
-
 </div>
 
 ### Core Technologies:
