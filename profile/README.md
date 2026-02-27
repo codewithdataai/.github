@@ -59,7 +59,7 @@ We build scalable data systems.
 |------------|------------|
 | 🚀 `data-engineering-roadmap` | Structured roadmap from Beginner → Advanced |
 | 🐍 `python-for-data-engineering` | Python fundamentals + real-world use cases |
-| 🗄️ `sql-for-data-analytics` | SQL mastery & interview questions |
+| 🗄️ `sql-for-data-engineers` | SQL mastery & interview questions |
 | ⚡ `pyspark-for-big-data` | Distributed data processing |
 | 🧱 `databricks-lakehouse-engineering` | Modern Lakehouse architecture |
 
